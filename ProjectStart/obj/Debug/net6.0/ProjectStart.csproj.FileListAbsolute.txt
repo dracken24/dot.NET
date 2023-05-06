@@ -1,0 +1,15 @@
+/home/dracken24/Documents/prog/dotNET/ProjectStart/bin/Debug/net6.0/ProjectStart
+/home/dracken24/Documents/prog/dotNET/ProjectStart/bin/Debug/net6.0/ProjectStart.deps.json
+/home/dracken24/Documents/prog/dotNET/ProjectStart/bin/Debug/net6.0/ProjectStart.runtimeconfig.json
+/home/dracken24/Documents/prog/dotNET/ProjectStart/bin/Debug/net6.0/ProjectStart.dll
+/home/dracken24/Documents/prog/dotNET/ProjectStart/bin/Debug/net6.0/ref/ProjectStart.dll
+/home/dracken24/Documents/prog/dotNET/ProjectStart/bin/Debug/net6.0/ProjectStart.pdb
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.csproj.AssemblyReference.cache
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.GeneratedMSBuildEditorConfig.editorconfig
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.AssemblyInfoInputs.cache
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.AssemblyInfo.cs
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.csproj.CoreCompileInputs.cache
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.dll
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ref/ProjectStart.dll
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.pdb
+/home/dracken24/Documents/prog/dotNET/ProjectStart/obj/Debug/net6.0/ProjectStart.genruntimeconfig.cache
