@@ -12,7 +12,7 @@ namespace Core
             Console.WriteLine("\nEnter your name:");
 			string str = Console.ReadLine();
 
-			Console.WriteLine("bonjour " + str);
+			Console.WriteLine($"bonjour {str}");
 		}
 	}
 }
